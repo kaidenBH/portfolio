@@ -1,9 +1,21 @@
 import React from 'react'
+import { Footer, Blog, Possibility, Features, Haitem, Header} from './Containers';
+import { Cta, Brand, Navbar} from './components';
 
 const App = () => {
   return (
-    <div>
-        <h1>Haitem's Portfolio</h1>
+    <div className='App'>
+        <div className='gradient_bg'>
+            <Navbar />
+            <Header />
+        </div>
+        <Brand />
+        <Haitem />
+        <Features />
+        <Possibility />
+        <Cta />
+        <Blog />
+        <Footer />
     </div>
   )
 }
