@@ -4,9 +4,9 @@ import logo from '../../assets/logo.svg';
 import './navbar.css';
 const Menu = () => (
   <>
-    <p><a href="#portfolio">Portfolio</a></p>
     <p><a href="#Haitem">About me</a></p>
-    <p><a href="#contact">Contact me</a></p>
+    <p><a href="#Portfolio">Portfolio</a></p>
+    <p><a href="#Contact">Contact me</a></p>
   </>
 )
 const Navbar = () => {
