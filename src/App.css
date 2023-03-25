@@ -12,14 +12,7 @@ a{
     color: unset;
     text-decoration: none;
 }
-#bg 
-{	
-	position:fixed;
-    background: linear-gradient(145deg, #192839 50%, #1ab4e2 115%);
-    margin: 0;
-    padding: 0;
-    z-index: -1;
-}
+
 /*
 .gradient_bg {
 
@@ -46,7 +39,7 @@ a{
     padding: 4rem 6rem;
 }
 
-.section_margin {
+.section_marging {
     margin: 4rem 6rem;
 }
 
