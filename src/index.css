@@ -3,7 +3,8 @@
     --font-family: 'Poppins', sans-serif;
     --gradient-text: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(179, 216, 227, 1) 100%);  
     --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
-    
+    --gradient-chart-bar: linear-gradient(45deg, #2C3333,#395B64 85% , #12DFDA);
+
     --color-button: #E7FAF5;
     --color-bg: #2C3333;
     --color-footer : #395B64;

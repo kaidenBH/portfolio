@@ -38,8 +38,8 @@
     padding: 0.5rem 1rem;
     cursor: pointer;
 
-    transition: all 0.3s;
-    transition-delay: 0.2s;
+    transition: all 0.2s;
+    transition-delay: 0.1s;
 }
 .haitem_navbar-links_container p::before,
 .haitem_navbar-menu_container p::before {

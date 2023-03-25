@@ -1,0 +1,34 @@
+.haitem_about {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    background: white;
+}
+.haitem_about-feature {
+    display: flex;
+}
+
+.haitem_about-feature .haitem_feature-container_feature {
+    margin: 0;
+}
+
+.haitem_about-feature .haitem_feature-container_feature-text {
+    max-width: 700px;
+}
+
+.haitem_about-heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4rem 0 2rem;
+}
+
+.haitem_about-heading h1 {
+    font-size: 34px;
+    line-height: 45px;
+    font-family: var(--font-family);
+    font-weight: 800;
+    max-width: 510px;
+    color: var(--color-bg);
+}
