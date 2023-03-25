@@ -9,8 +9,8 @@
     margin: 0;
 }
 
-.haitem_about-feature .haitem_feature-container_feature-text {
-    max-width: 1200px;
+.haitem_about-feature .haitem_feature-container_feature-title {
+    max-width: 390px;
 }
 
 .haitem_about-heading {
