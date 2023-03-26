@@ -10,7 +10,7 @@ const Header = () => {
         <p>I am a Full Stack Developer. I'm skilled in HTML, CSS, JavaScript , Python, C#, and 
             I have Strong Problem solivng skills. I graduated with a Master's degree in Artificial Intelligent.</p>
         <div className='haitem_header-content_input'>
-          <button type='button'>Contact Me</button>
+          <button type='button' onClick='#Contact'>Contact Me</button>
         </div>
       </div>
       <div className='haitem_header-image'>
