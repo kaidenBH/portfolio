@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfoliogit%20/static/css/main.11116de1.css",
-    "main.js": "/portfoliogit%20/static/js/main.6c6eb4f5.js",
-    "static/media/myimage.jpg": "/portfoliogit%20/static/media/myimage.82e01da571a7c9427117.jpg",
-    "static/media/tc.png": "/portfoliogit%20/static/media/tc.c6e48e60f856cb822273.png",
-    "static/media/gitc.png": "/portfoliogit%20/static/media/gitc.7f6000e144aeaa9700ee.png",
-    "static/media/fc.png": "/portfoliogit%20/static/media/fc.01a470d813915c298403.png",
-    "static/media/gitw.png": "/portfoliogit%20/static/media/gitw.0db18c337a5675dd6dcc.png",
-    "static/media/tw.png": "/portfoliogit%20/static/media/tw.787b57e58bc6261b6e57.png",
-    "static/media/lc.png": "/portfoliogit%20/static/media/lc.6892b3ae328c7a1e055f.png",
-    "static/media/lw.png": "/portfoliogit%20/static/media/lw.e6f3a258d789d5f0977f.png",
-    "static/media/gc.png": "/portfoliogit%20/static/media/gc.a2f2146f929409405da0.png",
-    "static/media/fw.png": "/portfoliogit%20/static/media/fw.72d0c4aa0acab15e3b61.png",
-    "index.html": "/portfoliogit%20/index.html",
-    "static/media/logo.svg": "/portfoliogit%20/static/media/logo.f62044581a6e19654e86662a2400f0e2.svg",
-    "main.11116de1.css.map": "/portfoliogit%20/static/css/main.11116de1.css.map",
-    "main.6c6eb4f5.js.map": "/portfoliogit%20/static/js/main.6c6eb4f5.js.map"
+    "main.css": "/portfoliogit/static/css/main.81583ae7.css",
+    "main.js": "/portfoliogit/static/js/main.cb1abd9b.js",
+    "static/media/myimage.jpg": "/portfoliogit/static/media/myimage.82e01da571a7c9427117.jpg",
+    "static/media/tc.png": "/portfoliogit/static/media/tc.c6e48e60f856cb822273.png",
+    "static/media/gitc.png": "/portfoliogit/static/media/gitc.7f6000e144aeaa9700ee.png",
+    "static/media/fc.png": "/portfoliogit/static/media/fc.01a470d813915c298403.png",
+    "static/media/gitw.png": "/portfoliogit/static/media/gitw.0db18c337a5675dd6dcc.png",
+    "static/media/tw.png": "/portfoliogit/static/media/tw.787b57e58bc6261b6e57.png",
+    "static/media/lc.png": "/portfoliogit/static/media/lc.6892b3ae328c7a1e055f.png",
+    "static/media/lw.png": "/portfoliogit/static/media/lw.e6f3a258d789d5f0977f.png",
+    "static/media/gc.png": "/portfoliogit/static/media/gc.a2f2146f929409405da0.png",
+    "static/media/fw.png": "/portfoliogit/static/media/fw.72d0c4aa0acab15e3b61.png",
+    "index.html": "/portfoliogit/index.html",
+    "static/media/logo.svg": "/portfoliogit/static/media/logo.f62044581a6e19654e86662a2400f0e2.svg",
+    "main.81583ae7.css.map": "/portfoliogit/static/css/main.81583ae7.css.map",
+    "main.cb1abd9b.js.map": "/portfoliogit/static/js/main.cb1abd9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.11116de1.css",
-    "static/js/main.6c6eb4f5.js"
+    "static/css/main.81583ae7.css",
+    "static/js/main.cb1abd9b.js"
   ]
 }
