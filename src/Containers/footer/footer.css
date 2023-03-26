@@ -24,8 +24,10 @@
 }
 
 .haitem_footer-icons {
-    transition: all 0.2s;
-    transition-delay: 0.05s;
+    /*transition: all 0.2s;
+    transition-delay: 0.05s;*/
+    transition: transform 0.3s ease;
+    transform: scale(1);
 }
 .haitem_footer-icons:hover {
     transform: scale(1.5);

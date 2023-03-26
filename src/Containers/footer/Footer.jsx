@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useRef } from 'react'
 import './footer.css'
 
 import fw from '../../assets/fw.png';
@@ -9,8 +9,9 @@ import tw from '../../assets/tw.png';
 
 
 const Footer = () => {
+  const contactRef = useRef(null);
   return (
-    <div className='haitem_footer' id='Contact'>
+    <div className='haitem_footer' id='Contact' ref={contactRef}>
       <h2 className='haitem_footer-heading'>Contact me here</h2>
       <div className='haitem_footer-items'>
         <a href="https://www.linkedin.com/in/bourahla-haitem/"><img className='haitem_footer-icons linkedin' src={lw} alt="linkedin" /></a>
