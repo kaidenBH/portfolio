@@ -7,7 +7,9 @@ const Background = () => {
     </div>
   )
 }
-  
+
+export default Background 
+
 let refreshDuration = 10000;
     let refreshTimeout;
     let numPointsX;
@@ -131,4 +133,3 @@ let refreshDuration = 10000;
     window.onresize = onResize;
 
 
-export default Background
