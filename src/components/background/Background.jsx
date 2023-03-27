@@ -2,15 +2,13 @@ import React from 'react'
 import './background.css'
 const Background = () => {
   return (
-    <div id='bg'>
-        
-    </div>
+    <div id='bg'></div>
   )
 }
 
-export default Background 
-
-let refreshDuration = 10000;
+document.addEventListener("DOMContentLoaded", function() {
+    
+    let refreshDuration = 10000;
     let refreshTimeout;
     let numPointsX;
     let numPointsY;
@@ -131,5 +129,8 @@ let refreshDuration = 10000;
     
     window.onload = onLoad;
     window.onresize = onResize;
+});
 
 
+
+export default Background 
