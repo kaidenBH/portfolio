@@ -2,12 +2,13 @@ import React from 'react'
 import './background.css'
 const Background = () => {
   return (
-    <div id='bg'></div>
+    <div id='bg'>
+        
+    </div>
   )
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    
     let refreshDuration = 10000;
     let refreshTimeout;
     let numPointsX;
