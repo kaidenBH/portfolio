@@ -30,7 +30,7 @@
     
     
 }
-.skills:hover .progressBarValue{
+/*.skills:hover .progressBarValue{
     animation-name: expandBar;
     animation-iteration-count: 1;
     animation-timing-function: all;
@@ -45,7 +45,7 @@
       left: 0;
       width: 100%;
     }
-}
+}*/
 
 .value-00 {
     width: 0;
